@@ -594,6 +594,8 @@ textarea.input3 {
   line-height: 1.2;
 }
 
+/* This is where the slider starts */
+
 .slider::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
